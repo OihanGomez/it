@@ -20,7 +20,7 @@ function updateCountdown() {
 }
 
 function redirectToOtherPage() {
-  window.location.href = "otra_pagina.html";
+  window.location.href = "amor.png";
 }
 
 setInterval(updateCountdown, 1000);
